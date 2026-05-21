@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy Jhon
 
-### Full Stack Developer | Angular | TypeScript | React | Go
+### Full Stack Developer | Angular | TypeScript | React | Go | C# .NET
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador full stack apasionado por crear soluciones innovadoras y escalables. Me especializo en desarrollo frontend con **Angular** y **TypeScript**, pero también tengo experiencia en backend con **Go** y **JavaScript**. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+Soy un desarrollador full stack apasionado por crear soluciones innovadoras y escalables. Me especializo en desarrollo frontend con **Angular** y **TypeScript**, backend con **Go**, **JavaScript** y **C# .NET**. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
 ---
 
@@ -19,6 +19,8 @@ Soy un desarrollador full stack apasionado por crear soluciones innovadoras y es
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,6 +38,7 @@ Soy un desarrollador full stack apasionado por crear soluciones innovadoras y es
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [**Proyecto Tobon**](https://github.com/Jhon-opt/Proyecto_tobon) | 🚌 Sistema de gestión de transporte | HTML, CSS, JavaScript |
 | [**AbsoluteTimer**](https://github.com/Jhon-opt/absolute-timer) | Aplicación de temporizador avanzada | TypeScript, Frontend |
 | [**PlanColApp**](https://github.com/Jhon-opt/PlanColApp) | Aplicación de planificación | TypeScript, Angular |
 | [**Trendy-Look**](https://github.com/Jhon-opt/Trendy-Look) | Plataforma de moda y tendencias | TypeScript, Angular |
@@ -49,6 +52,7 @@ Soy un desarrollador full stack apasionado por crear soluciones innovadoras y es
 - [**Reactive-forms-app**](https://github.com/Jhon-opt/reactive-forms-app) - Formularios reactivos en Angular
 - [**Pipes-app**](https://github.com/Jhon-opt/pipes-app) - Pipes personalizados en Angular
 - [**Proyecto-G**](https://github.com/Jhon-opt/Proyecto-G) - Proyecto colaborativo
+- [**Thotic-frontend**](https://github.com/Jhon-opt/Thotic-frontend) - Frontend del proyecto Thotic
 
 ---
 
@@ -67,7 +71,8 @@ Soy un desarrollador full stack apasionado por crear soluciones innovadoras y es
 ## 🎯 Lo que me apasiona
 
 - ✨ Crear interfaces de usuario modernas y responsivas
-- 🔧 Desarrollar soluciones backend robustas
+- 🚌 Desarrollar soluciones para sistemas de transporte
+- 🔧 Desarrollar soluciones backend robustas con C# y .NET
 - 📚 Aprender nuevas tecnologías constantemente
 - 🤝 Colaborar en proyectos desafiantes
 - 🚀 Optimizar el rendimiento de aplicaciones
