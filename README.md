@@ -38,7 +38,7 @@ Soy un desarrollador full stack apasionado por crear soluciones innovadoras y es
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**Proyecto Tobon**](https://github.com/Jhon-opt/Proyecto_tobon) | 🚌 Sistema de gestión de transporte | HTML, CSS, JavaScript |
+| [**Proyecto Tobon**](https://github.com/Jhon-opt/Proyecto_tobon) | 🚌 Sistema de gestión de transporte | C#, .NET |
 | [**AbsoluteTimer**](https://github.com/Jhon-opt/absolute-timer) | Aplicación de temporizador avanzada | TypeScript, Frontend |
 | [**PlanColApp**](https://github.com/Jhon-opt/PlanColApp) | Aplicación de planificación | TypeScript, Angular |
 | [**Trendy-Look**](https://github.com/Jhon-opt/Trendy-Look) | Plataforma de moda y tendencias | TypeScript, Angular |
